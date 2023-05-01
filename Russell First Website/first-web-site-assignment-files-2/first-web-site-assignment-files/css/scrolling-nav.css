@@ -1,0 +1,303 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+header {
+  padding: 154px 0 100px;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+nav {
+  background-color: rgb(70, 130, 180);
+}
+
+header {
+  background-image: url("https://image.cnbcfm.com/api/v1/image/106963490-1634759952978-gettyimages-1308615771-dsc05921.jpeg?v=1634760396");
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://image.cnbcfm.com/api/v1/image/106963490-1634759952978-gettyimages-1308615771-dsc05921.jpeg?v=1634760396');
+  background-size: cover;
+  height: auto;
+  width: 100%;
+  color: white;
+  height: 700px;
+
+}
+header:hover {-webkit-filter: brightness(110%); }
+
+#boldtop{
+  background-color: rgba(255, 255, 255, .6);
+  border-radius: 25px;
+  width:47%;
+  margin-left: 40px;
+  text-shadow: 2px 2px black;
+  padding: 10px;
+  text-align: center;
+  margin-top: 40px;
+  color: rgb(172,202,161);
+
+}
+
+.lead {
+  text-align: center;
+  margin-right: 500px;
+  font-family: sans-serif, impact;
+
+}
+
+
+section {
+  padding-top: 30px;
+  padding-left: 20px;
+  padding-bottom: 200px;
+}
+
+footer {
+  background-color: rgba(70, 130, 180, .99);
+  color: white;
+  margin-top: 20px;
+  height: 90px;
+}
+
+h1{
+font:normal 3em impact ;
+}
+
+h2{
+font: normal 2em impact;
+}
+
+h3{
+font: bold 1.5em Arial;
+}
+
+p {
+  font:normal 1em arial;
+}
+
+
+.gold-bg {
+ background-color: powderblue;
+}
+
+/* The First Section */
+
+#section1 {
+  height: 520px;
+}
+
+#download {
+margin-top: 220px;
+background-color: powderblue;
+border-radius: 35px;
+width: 25%;
+padding: 20px;
+text-align: center;
+font:bold 2em arial;
+margin-left: 1000px;
+border-style: solid;
+position: absolute;
+
+}
+
+.img1 {
+float: left;
+margin-left: 60px;
+
+}
+
+#logo {
+ float: right;
+ margin-right: 300px;
+ margin-top: 60px;
+ position: absolute;
+ margin-left: 1140px;
+}
+
+#signup {
+  border-radius: 25px;
+background-color: white;
+width: 10%;
+padding-left: 15px;
+padding-bottom: 4px;
+}
+
+#prices {
+  border-radius: 25px;
+background-color: white;
+width: 16.5%;
+padding-left: 15px;
+padding-bottom: 4px;
+}
+
+#recipes {
+  border-radius: 25px;
+background-color: white;
+width: 20%;
+padding-left: 15px;
+padding-bottom: 4px;
+}
+
+/* The Second Section */
+#section2 {
+  height: 100px;
+}
+#why {
+text-align: center;
+border-radius: 25px;
+background-color: White;
+width: 15%;
+padding: 5PX;
+margin-left: 740px;
+
+}
+
+#why1 {
+text-align: center;
+font: normal 1.5em arial;
+}
+
+
+/* The Third Section */
+#section3 {
+height: 500px;
+}
+
+.img2 {
+  float: right;
+  margin-right: 250px;
+}
+
+#deals {
+margin-left: 300px;
+border-radius: 25px;
+background-color: powderblue;
+width: 20%;
+padding: 5PX;
+text-align: center;
+}
+#deals1 {
+  margin-left: 150px;
+  width: 40%;
+  text-align: center;
+  font:normal 1.5em arial;
+
+}
+/* The Fourth Section */
+#section4 {
+  height: 500px;
+
+}
+
+.img3 {
+ margin-left: 250px;
+ float: left;
+}
+
+#BFR {
+margin-left: 960px;
+border-radius: 25px;
+background-color: white;
+width: 20%;
+padding: 5PX;
+text-align: center;
+color: black;
+position: absolute;
+}
+
+#BFR1 {
+  margin-left: 800px;
+  width: 40%;
+  text-align: center;
+  font:normal 1.5em arial;
+  position: absolute;
+  margin-top: 90px;
+
+}
+
+/* The Fifth Section */
+#section5 {
+height: 50px;
+}
+
+#contact {
+  margin-top: 30px;
+text-align: center;
+font:normal 2.2em impact;
+}
+
+#contact1 {
+font: normal 1.3em arial;
+width: 50%;
+text-align: center;
+margin-left: 400px;
+}
+
+#email {
+text-align: center;
+}
+
+/* Footer */
+#footer {
+  height: 360px;
+  color: black;
+}
+
+#tsfooter {
+margin-left: 50px;
+width: 20%;
+}
+
+#copy {
+  margin: 30px;
+}
+
+#support {
+  padding-top: 40px;
+text-align: center;
+}
+
+#support1 {
+text-align: center;
+padding: 5px;
+}
+
+#social {
+text-align: center;
+}
+
+#social1 {
+  text-align: center;
+
+}
+
+#apple {
+float: left;
+}
+
+#google {
+float: left;
+
+
+}
+
+/* Links */
+a:link { 
+  font-weight: bolder; 
+  text-decoration: underline; 
+  color: black;
+  }
+a:visited { 
+  font-weight: bold; 
+  text-decoration: underline; 
+  color: black;
+  }
+a:hover, a:focus, a:active { 
+  text-decoration: underline; 
+  color: darkviolet;
+  }
