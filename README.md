@@ -1,2 +1,1 @@
-# example work
-
+This is a project I completed for a class in my Interactive Web Design Major at JMU. We had to develop an app and then make a website for it. I hand coded the HTML and CSS to my liking, but was given some base code to alter. Because of this, not ALL of the HTML coding is mine, but an overwhelming majority is. Some of the HTML was provided as a template for me, but overall has greatly expanded my knowledge and understanding. All of the CSS was hand coded by me from scratch.
